@@ -60,7 +60,7 @@ fun SearchScreen(
                     }
                     Spacer(modifier = Modifier.width(8.dp))
                     Text(
-                        text = "VIBE.AI",
+                        text = "Chord Recognizer",
                         style = MaterialTheme.typography.titleLarge.copy(fontWeight = FontWeight.Bold),
                         color = Color.White
                     )
