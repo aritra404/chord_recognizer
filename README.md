@@ -92,13 +92,11 @@ Android UI Display
 ## 📸 Screenshots
 
 <p align="center">
-![2](https://github.com/user-attachments/assets/c562792a-28b5-48ef-b20f-d1bdc354ccea)
-![3](https://github.com/user-attachments/assets/2a306f82-0056-47fa-a7e1-033018aa0cde)
-![4](https://github.com/user-attachments/assets/1ab407d5-03b9-4b19-bef0-688f0278560d)
-![1](https://github.com/user-attachments/assets/e974adaf-9ea2-4edb-ae5e-aa666f6b576c)
-
+  <img src="https://github.com/user-attachments/assets/401699a4-aaf4-4d0a-aa0f-fc6fb434d53c" width="22%" />
+  <img src="https://github.com/user-attachments/assets/5cc400f9-7099-41eb-987d-860c6aff6f31" width="22%" />
+  <img src="https://github.com/user-attachments/assets/05978ea7-111b-4780-8047-7852d9fbfd99" width="22%" />
+  <img src="https://github.com/user-attachments/assets/de1fafe4-80ea-426a-8de9-031a3c325b14" width="22%" />
 </p>
----
 
 ## 🎥 Demo
 
