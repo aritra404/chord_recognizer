@@ -91,12 +91,13 @@ Android UI Display
 
 ## 📸 Screenshots
 
-> Add screenshots here:
+<p align="center">
+![2](https://github.com/user-attachments/assets/c562792a-28b5-48ef-b20f-d1bdc354ccea)
+![3](https://github.com/user-attachments/assets/2a306f82-0056-47fa-a7e1-033018aa0cde)
+![4](https://github.com/user-attachments/assets/1ab407d5-03b9-4b19-bef0-688f0278560d)
+![1](https://github.com/user-attachments/assets/e974adaf-9ea2-4edb-ae5e-aa666f6b576c)
 
-* Song selection screen
-* Processing screen
-* Chord output screen
-
+</p>
 ---
 
 ## 🎥 Demo
